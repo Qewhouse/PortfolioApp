@@ -11,9 +11,10 @@
 ### Technical stack
 - MVC, Auto Layout programmatically.
 - **No Third Party Dependancies**
-<details><summary><h3>Application Demo</h3></summary>
 
-</details>
+
+![](https://github.com/Qewhouse/PortfolioApp/blob/main/ezgif.com-video-to-gif.gif)
+
 
 [ios]: https://img.shields.io/badge/iOS-16.4-critical
 [swift]: https://img.shields.io/badge/-Swift-9cf
