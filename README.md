@@ -10,7 +10,7 @@
 
 ### Technical stack
 - MVC, Auto Layout programmatically.
-- **No Third Party Dependancies:
+- **No Third Party Dependancies**
 <details><summary><h3>Application Demo</h3></summary>
 
 </details>
